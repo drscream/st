@@ -1,0 +1,38 @@
+### C ###
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects
+*.so
+*.so.*
+
+# Executables
+st
+*.out
+
+### Vim ###
+# swap
+.sw[a-p]
+.*.sw[a-p]
+# session
+Session.vim
+# temporary
+.netrwhist
+*~
+
+### Patch ###
+# orig, rej files
+*.orig
+*.rej
+# patches
+*.diff
+*.patch
